@@ -48,13 +48,7 @@ table {
 }
 .mitch {
     font-size: 40px;
+    font-display: center;
+    padding: auto;
     
-}
-main {
-    border:solid 2px royalblue;
-    display: flex;
-    align-items:flex-start;
-}
-main {
-    border:solid 4px pink;
 }
